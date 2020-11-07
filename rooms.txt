@@ -1,0 +1,8 @@
+1,AC,2,5000,Available
+2,AC,1,3000,Available,
+3,Non AC,2,4000,Available,
+4,Non AC,2,8000,Available,
+45,ac,2,4500.5,Available,
+34,nonac,3,5500.25,Not Available,
+5,ac,5,10000.0,Not Available,
+78,343,4,2323.0,Available,
